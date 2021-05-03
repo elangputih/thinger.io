@@ -2,9 +2,6 @@
 #include <ThingerESP8266.h>
 #include <ESP8266WiFi.h> 
 
-//#define DHTPIN D5
-//#define DHTTYPE DHT22
-//DHT dht(DHTPIN, DHTTYPE);
 
 //konfigurasi thinger.IO
 #define USERNAME "abdulbasit" // sudah sama
