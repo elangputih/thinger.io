@@ -59,3 +59,4 @@ void loop (){
   //baca nilai humidity dan temperature
   humidity = dht.readHumidity();
   temperature = dht.readTemperature();
+  }
